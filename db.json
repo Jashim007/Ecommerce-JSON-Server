@@ -2,98 +2,347 @@
   "all_products": [
     {
       "_id": "644e4a49116a3b496294e199",
-      "name": "Mobileee",
-      "description": "5g Mobile Phone",
-      "price": 5000,
+      "name": "Redmi Note 12",
+      "description": "Redmi Note 12 5G Matte Black 6GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+      "price": 19999,
       "rating": 0,
       "images": [
         {
-          "public_id": "abcd",
-          "uri": "xyz",
-          "_id": "644e4cdfdfad34bc7fdb004a"
+          "image1": "https://m.media-amazon.com/images/I/81ZZPvIWnYL._SX679_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/51XmUa63yML._SX679_.jpg"
         }
       ],
       "category": "Mobile Phone",
-      "Stock": 3,
+      "stock": 3,
       "numOfReviews": 0,
-      "reviews": [],
-      "__v": 0
+      "reviews": []
     },
     {
       "_id": "644e4a49116a3b496294e200",
-      "name": "Mobileee",
-      "description": "5g Mobile Phone",
-      "price": 5000,
+      "name": "Apple iPhone 13 Pro",
+      "description": "Apple iPhone 13 Pro (1TB) - Silver",
+      "price": 144999,
       "rating": 0,
       "images": [
         {
-          "public_id": "abcd",
-          "uri": "xyz",
-          "_id": "644e4cdfdfad34bc7fdb004a"
+          "image1": "https://m.media-amazon.com/images/I/617FFRO3vcL._SX679_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/61fw6aB0irL._SX679_.jpg"
         }
       ],
       "category": "Mobile Phone",
-      "Stock": 3,
+      "stock": 10,
       "numOfReviews": 0,
-      "reviews": [],
-      "__v": 0
+      "reviews": []
     },
     {
       "_id": "644e4a49116a3b496294e201",
-      "name": "Mobileee",
-      "description": "5g Mobile Phone",
-      "price": 5000,
+      "name": "Samsung Galaxy S23 Ultra",
+      "description": "Samsung Galaxy S23 Ultra 5G (Cream, 12GB, 256GB Storage)",
+      "price": 124999,
       "rating": 0,
       "images": [
         {
-          "public_id": "abcd",
-          "uri": "xyz",
-          "_id": "644e4cdfdfad34bc7fdb004a"
+          "image1": "https://m.media-amazon.com/images/I/61j99uUfXNL._SX679_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/61DRYp5qoeL._SX679_.jpg"
         }
       ],
       "category": "Mobile Phone",
-      "Stock": 3,
+      "stock": 12,
       "numOfReviews": 0,
-      "reviews": [],
-      "__v": 0
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e201",
+      "name": "OnePlus 10R",
+      "description": "OnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
+      "price": 34999,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/41pQ4gJMwEL._SX300_SY300_QL70_FMwebp_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/710ldHgfKLL._SX679_.jpg"
+        }
+      ],
+      "category": "Mobile Phone",
+      "stock": 12,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e201",
+      "name": "iQOO 11",
+      "description": "iQOO 11 5G (Legend, 8GB RAM, 256 GB Storage) | Snapdragon ® 8 Gen 2 Mobile Platform | 2K E6 AMOLED Display | V2 Intelligent Display Chip",
+      "price": 54990,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/71ZeuCAbcSL._SX679_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/61abiAT+ECL._SX679_.jpg"
+        }
+      ],
+      "category": "Mobile Phone",
+      "stock": 12,
+      "numOfReviews": 0,
+      "reviews": []
     },
     {
       "_id": "644e4a49116a3b496294e202",
-      "name": "Mobileee",
-      "description": "5g Mobile Phone",
-      "price": 5000,
+      "name": "Miraan Denim Shirt",
+      "description": "Miraan Men's Long Sleeve Casual Denim Shirt",
+      "price": 745,
       "rating": 0,
       "images": [
         {
-          "public_id": "abcd",
-          "uri": "xyz",
-          "_id": "644e4cdfdfad34bc7fdb004a"
+          "image1": "https://m.media-amazon.com/images/I/81uTb5UwUgL._UY550_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/81OACJ3TMlL._UY550_.jpg"
         }
       ],
-      "category": "Mobile Phone",
-      "Stock": 3,
+      "category": "Men's Clothing",
+      "stock": 15,
       "numOfReviews": 0,
-      "reviews": [],
-      "__v": 0
+      "reviews": []
     },
     {
       "_id": "644e4a49116a3b496294e203",
-      "name": "Mobileee",
-      "description": "5g Mobile Phone",
-      "price": 5000,
+      "name": "Dennis Lingo Denim Shirt",
+      "description": "Dennis Lingo Men's Denim Solid Casual Shirt",
+      "price": 749,
       "rating": 0,
       "images": [
         {
-          "public_id": "abcd",
-          "uri": "xyz",
-          "_id": "644e4cdfdfad34bc7fdb004a"
+          "image1": "https://m.media-amazon.com/images/I/71SajCEdvTL._UY741_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/71tUd+9zOrL._UY550_.jpg"
+        }
+      ],
+      "category": "Men's Clothing",
+      "stock": 30,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e204",
+      "name": "Inkast Denim Co. Shirt",
+      "description": "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
+      "price": 799,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/71ssF1s7V1L._UY550_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/81ohJVWRobL._UY550_.jpg"
+        }
+      ],
+      "category": "Men's Clothing",
+      "stock": 30,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e204",
+      "name": "Urbano Fashion Jeans",
+      "description": "Urbano Fashion Men's Light Grey Slim Fit Jogger Jeans Stretch",
+      "price": 727,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/71J5v1vrKaL._UX466_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/81YfzEbgnkL._UX466_.jpg"
+        }
+      ],
+      "category": "Men's Clothing",
+      "stock": 30,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e204",
+      "name": "Levi's Jeans",
+      "description": "Levi's Men's Slim Jeans",
+      "price": 1727,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/61go-GPfLXL._UX569_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/61vKg-JRVFL._UX569_.jpg"
+        }
+      ],
+      "category": "Men's Clothing",
+      "stock": 30,
+      "numOfReviews": 0,
+      "reviews": []
+    }
+  ],
+  "Mobile Phones": [
+    {
+      "_id": "644e4a49116a3b496294e199",
+      "name": "Redmi Note 12",
+      "description": "Redmi Note 12 5G Matte Black 6GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+      "price": 19999,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/81ZZPvIWnYL._SX679_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/51XmUa63yML._SX679_.jpg"
         }
       ],
       "category": "Mobile Phone",
-      "Stock": 3,
+      "stock": 3,
       "numOfReviews": 0,
-      "reviews": [],
-      "__v": 0
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e200",
+      "name": "Apple iPhone 13 Pro",
+      "description": "Apple iPhone 13 Pro (1TB) - Silver",
+      "price": 144999,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/617FFRO3vcL._SX679_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/61fw6aB0irL._SX679_.jpg"
+        }
+      ],
+      "category": "Mobile Phone",
+      "stock": 10,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e201",
+      "name": "Samsung Galaxy S23 Ultra",
+      "description": "Samsung Galaxy S23 Ultra 5G (Cream, 12GB, 256GB Storage)",
+      "price": 124999,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/61j99uUfXNL._SX679_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/61DRYp5qoeL._SX679_.jpg"
+        }
+      ],
+      "category": "Mobile Phone",
+      "stock": 12,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e201",
+      "name": "OnePlus 10R",
+      "description": "OnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
+      "price": 34999,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/41pQ4gJMwEL._SX300_SY300_QL70_FMwebp_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/710ldHgfKLL._SX679_.jpg"
+        }
+      ],
+      "category": "Mobile Phone",
+      "stock": 12,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e201",
+      "name": "iQOO 11",
+      "description": "iQOO 11 5G (Legend, 8GB RAM, 256 GB Storage) | Snapdragon ® 8 Gen 2 Mobile Platform | 2K E6 AMOLED Display | V2 Intelligent Display Chip",
+      "price": 54990,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/71ZeuCAbcSL._SX679_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/61abiAT+ECL._SX679_.jpg"
+        }
+      ],
+      "category": "Mobile Phone",
+      "stock": 12,
+      "numOfReviews": 0,
+      "reviews": []
+    }
+  ],
+  "Men's Clothing": [
+    {
+      "_id": "644e4a49116a3b496294e202",
+      "name": "Miraan Denim Shirt",
+      "description": "Miraan Men's Long Sleeve Casual Denim Shirt",
+      "price": 745,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/81uTb5UwUgL._UY550_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/81OACJ3TMlL._UY550_.jpg"
+        }
+      ],
+      "category": "Men's Clothing",
+      "stock": 15,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e203",
+      "name": "Dennis Lingo Denim Shirt",
+      "description": "Dennis Lingo Men's Denim Solid Casual Shirt",
+      "price": 749,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/71SajCEdvTL._UY741_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/71tUd+9zOrL._UY550_.jpg"
+        }
+      ],
+      "category": "Men's Clothing",
+      "stock": 30,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e204",
+      "name": "Inkast Denim Co. Shirt",
+      "description": "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
+      "price": 799,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/71ssF1s7V1L._UY550_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/81ohJVWRobL._UY550_.jpg"
+        }
+      ],
+      "category": "Men's Clothing",
+      "stock": 30,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e204",
+      "name": "Urbano Fashion Jeans",
+      "description": "Urbano Fashion Men's Light Grey Slim Fit Jogger Jeans Stretch",
+      "price": 727,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/71J5v1vrKaL._UX466_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/81YfzEbgnkL._UX466_.jpg"
+        }
+      ],
+      "category": "Men's Clothing",
+      "stock": 30,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e204",
+      "name": "Levi's Jeans",
+      "description": "Levi's Men's Slim Jeans",
+      "price": 1727,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://m.media-amazon.com/images/I/61go-GPfLXL._UX569_.jpg",
+          "image2": "https://m.media-amazon.com/images/I/61vKg-JRVFL._UX569_.jpg"
+        }
+      ],
+      "category": "Men's Clothing",
+      "stock": 30,
+      "numOfReviews": 0,
+      "reviews": []
     }
   ]
 }
