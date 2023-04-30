@@ -171,7 +171,7 @@
       "reviews": []
     }
   ],
-  "Mobile Phones": [
+  "mobile_phones": [
     {
       "_id": "644e4a49116a3b496294e199",
       "name": "Redmi Note 12",
@@ -258,7 +258,7 @@
       "reviews": []
     }
   ],
-  "Men's Clothing": [
+  "men_clothing": [
     {
       "_id": "644e4a49116a3b496294e202",
       "name": "Miraan Denim Shirt",
