@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "644e4a49116a3b496294e199",
+    "name": "Mobileee",
+    "description": "5g Mobile Phone",
+    "price": 5000,
+    "rating": 0,
+    "images": [
+      {
+        "public_id": "abcd",
+        "uri": "xyz",
+        "_id": "644e4cdfdfad34bc7fdb004a"
+      }
+    ],
+    "category": "Mobile Phone",
+    "Stock": 3,
+    "numOfReviews": 0,
+    "reviews": [],
+    "__v": 0
+  }
+]
