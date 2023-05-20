@@ -1,346 +1,324 @@
 {
+  "new_arrivals": [
+    {
+      "_id": "644e4a49116a3b496294e199",
+      "name": "AIR JORDAN 1",
+      "description": "AIR JORDAN 1 ZOOM CMFT 2 'BLEACHED AQUA/BLACK/WHITE/BRIGHT",
+      "brand": "Jordan",
+      "price": 13295,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/PHOTOSHOP44444.jpg?v=1684501128&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/PHOTOSHOP3333.jpg?v=1684501128&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/PHOTOSHOP1111.jpg?v=1684501128&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/PHOTOSHOP222.jpg?v=1684501128&width=493"
+        }
+      ],
+      "category": "Men's Sneakers",
+      "stock": 3,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e200",
+      "name": "KROST GAMMA 'PORCELAIN TRAINERS'",
+      "description": "KROST GAMMA 'PORCELAIN TRAINERS'",
+      "brand": "Toms",
+      "price": 10999,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_937fd9b6-7f62-49c0-91c2-d43a62960513.jpg?v=1684404716&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a66bc434-d63f-4c2c-81f4-2b38f4536954.jpg?v=1684404716&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_cc300036-cf28-4d17-abf9-75318f0f27ae.jpg?v=1684404716&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_14c6519c-1818-4798-859d-19422022abe0.jpg?v=1684404716&width=493"
+        }
+      ],
+      "category": "Men's Sneakers",
+      "stock": 10,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e201",
+      "name": "AIR JORDAN 14 RETRO",
+      "description": "AIR JORDAN 14 RETRO 'VARSITY ROYAL/BLACK-VARSITY MAIZE-WHITE'",
+      "brand": "Jordan",
+      "price": 18395,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_baab271e-e150-46ee-9cae-d830ab730e88.jpg?v=1684323468&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_4e450613-ab1f-48ca-99b4-9950dd299ab0.jpg?v=1684323468&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_d4f4d00b-5f32-47fe-9f23-95fcdd99f455.jpg?v=1684323468&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_98e53d57-5239-40f6-a7b2-519eb1e0d06d.jpg?v=1684323468&width=493"
+        }
+      ],
+      "category": "Men's Sneakers",
+      "stock": 12,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e202",
+      "name": "AIR JORDAN 2 RETRO LOW",
+      "description": "AIR JORDAN 2 RETRO LOW 'WHITE/CHERRYWOOD RED-LT STEEL GREY'",
+      "brand": "Jordan",
+      "price": 14995,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ffa65605-70b0-45d6-8bb1-9d395bfb5ced.jpg?v=1684316604&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_12df0f94-242f-4abf-85f7-0e7ec3b8b5e0.jpg?v=1684316604&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_8f00c745-e6b3-432e-bd83-0ca4aecb1437.jpg?v=1684316603&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b165c540-0e53-48e6-a64a-33954b76c7eb.jpg?v=1684316603&width=493"
+        }
+      ],
+      "category": "Men's Sneakers",
+      "stock": 12,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e203",
+      "name": "CHUCK 70 VINTAGE",
+      "description": "CHUCK 70 VINTAGE CANVAS 'DEEP WATERS/BLACK/WHITE'",
+      "brand": "Converse",
+      "price": 4499,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_6bfc9f41-7023-43ce-a31e-6815456a6c44.jpg?v=1684224762&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_371dd88a-c877-4431-b507-feec94c74f96.jpg?v=1684224762&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_71027cd0-7150-4e75-a2cd-87611bfcf773.jpg?v=1684224762&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_4e74596e-02b4-4bc4-b194-3cb0f0c87626.jpg?v=1684224762&width=493"
+        }
+      ],
+      "category": "Men's Sneakers",
+      "stock": 12,
+      "numOfReviews": 0,
+      "reviews": []
+    },
+    {
+      "_id": "644e4a49116a3b496294e204",
+      "name": "WMN'S AIR JORDAN 1 LOW",
+      "description": "WMN'S AIR JORDAN 1 LOW 'WHITE/BLACK'",
+      "brand": "Jordan",
+      "price": 8295,
+      "rating": 0,
+      "images": [
+        {
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ef44b818-c4fd-4fa5-934b-5c118af39d2b.jpg?v=1684235808&width=750",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_267e0f43-132b-403e-b9b9-03c37094dcb8.jpg?v=1684235808&width=750",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_054e1398-82d1-4ff5-9bf9-8daf417920a9.jpg?v=1684235808&width=750",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a114f4c6-0bcc-4668-ad56-faa2360373a2.jpg?v=1684235808&width=750"
+        }
+      ],
+      "category": "Men's Sneakers",
+      "stock": 15,
+      "numOfReviews": 0,
+      "reviews": []
+    }
+  ],
   "all_products": [
     {
-      "_id": "644e4a49116a3b496294e199",
-      "name": "Redmi Note 12",
-      "description": "Redmi Note 12 5G Matte Black 6GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
-      "price": 19999,
+      "_id": "644e4a49116a3b496294e205",
+      "name": "AIR JORDAN 1",
+      "description": "AIR JORDAN 1 ZOOM CMFT 2 'BLEACHED AQUA/BLACK/WHITE/BRIGHT",
+      "brand": "Jordan",
+      "price": 13295,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/81ZZPvIWnYL._SX679_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/51XmUa63yML._SX679_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/PHOTOSHOP44444.jpg?v=1684501128&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/PHOTOSHOP3333.jpg?v=1684501128&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/PHOTOSHOP1111.jpg?v=1684501128&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/PHOTOSHOP222.jpg?v=1684501128&width=493"
         }
       ],
-      "category": "Mobile Phone",
+      "category": "Men's Sneakers",
       "stock": 3,
       "numOfReviews": 0,
       "reviews": []
     },
     {
-      "_id": "644e4a49116a3b496294e200",
-      "name": "Apple iPhone 13 Pro",
-      "description": "Apple iPhone 13 Pro (1TB) - Silver",
-      "price": 144999,
+      "_id": "644e4a49116a3b496294e206",
+      "name": "KROST GAMMA 'PORCELAIN TRAINERS'",
+      "description": "KROST GAMMA 'PORCELAIN TRAINERS'",
+      "brand": "Toms",
+      "price": 10999,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/617FFRO3vcL._SX679_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/61fw6aB0irL._SX679_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_937fd9b6-7f62-49c0-91c2-d43a62960513.jpg?v=1684404716&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a66bc434-d63f-4c2c-81f4-2b38f4536954.jpg?v=1684404716&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_cc300036-cf28-4d17-abf9-75318f0f27ae.jpg?v=1684404716&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_14c6519c-1818-4798-859d-19422022abe0.jpg?v=1684404716&width=493"
         }
       ],
-      "category": "Mobile Phone",
+      "category": "Men's Sneakers",
       "stock": 10,
       "numOfReviews": 0,
       "reviews": []
     },
     {
-      "_id": "644e4a49116a3b496294e201",
-      "name": "Samsung Galaxy S23 Ultra",
-      "description": "Samsung Galaxy S23 Ultra 5G (Cream, 12GB, 256GB Storage)",
-      "price": 124999,
+      "_id": "644e4a49116a3b496294e207",
+      "name": "AIR JORDAN 14 RETRO",
+      "description": "AIR JORDAN 14 RETRO 'VARSITY ROYAL/BLACK-VARSITY MAIZE-WHITE'",
+      "brand": "Jordan",
+      "price": 18395,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/61j99uUfXNL._SX679_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/61DRYp5qoeL._SX679_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_baab271e-e150-46ee-9cae-d830ab730e88.jpg?v=1684323468&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_4e450613-ab1f-48ca-99b4-9950dd299ab0.jpg?v=1684323468&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_d4f4d00b-5f32-47fe-9f23-95fcdd99f455.jpg?v=1684323468&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_98e53d57-5239-40f6-a7b2-519eb1e0d06d.jpg?v=1684323468&width=493"
         }
       ],
-      "category": "Mobile Phone",
+      "category": "Men's Sneakers",
       "stock": 12,
       "numOfReviews": 0,
       "reviews": []
     },
     {
-      "_id": "644e4a49116a3b496294e201",
-      "name": "OnePlus 10R",
-      "description": "OnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
-      "price": 34999,
+      "_id": "644e4a49116a3b496294e208",
+      "name": "AIR JORDAN 2 RETRO LOW",
+      "description": "AIR JORDAN 2 RETRO LOW 'WHITE/CHERRYWOOD RED-LT STEEL GREY'",
+      "brand": "Jordan",
+      "price": 14995,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/41pQ4gJMwEL._SX300_SY300_QL70_FMwebp_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/710ldHgfKLL._SX679_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ffa65605-70b0-45d6-8bb1-9d395bfb5ced.jpg?v=1684316604&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_12df0f94-242f-4abf-85f7-0e7ec3b8b5e0.jpg?v=1684316604&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_8f00c745-e6b3-432e-bd83-0ca4aecb1437.jpg?v=1684316603&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b165c540-0e53-48e6-a64a-33954b76c7eb.jpg?v=1684316603&width=493"
         }
       ],
-      "category": "Mobile Phone",
+      "category": "Men's Sneakers",
       "stock": 12,
       "numOfReviews": 0,
       "reviews": []
     },
     {
-      "_id": "644e4a49116a3b496294e201",
-      "name": "iQOO 11",
-      "description": "iQOO 11 5G (Legend, 8GB RAM, 256 GB Storage) | Snapdragon ® 8 Gen 2 Mobile Platform | 2K E6 AMOLED Display | V2 Intelligent Display Chip",
-      "price": 54990,
+      "_id": "644e4a49116a3b496294e209",
+      "name": "CHUCK 70 VINTAGE",
+      "description": "CHUCK 70 VINTAGE CANVAS 'DEEP WATERS/BLACK/WHITE'",
+      "brand": "Converse",
+      "price": 4499,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/71ZeuCAbcSL._SX679_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/61abiAT+ECL._SX679_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_6bfc9f41-7023-43ce-a31e-6815456a6c44.jpg?v=1684224762&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_371dd88a-c877-4431-b507-feec94c74f96.jpg?v=1684224762&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_71027cd0-7150-4e75-a2cd-87611bfcf773.jpg?v=1684224762&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_4e74596e-02b4-4bc4-b194-3cb0f0c87626.jpg?v=1684224762&width=493"
         }
       ],
-      "category": "Mobile Phone",
+      "category": "Men's Sneakers",
       "stock": 12,
       "numOfReviews": 0,
       "reviews": []
     },
     {
-      "_id": "644e4a49116a3b496294e202",
-      "name": "Miraan Denim Shirt",
-      "description": "Miraan Men's Long Sleeve Casual Denim Shirt",
-      "price": 745,
+      "_id": "644e4a49116a3b496294e210",
+      "name": "WMN'S AIR JORDAN 1 LOW",
+      "description": "WMN'S AIR JORDAN 1 LOW 'WHITE/BLACK'",
+      "brand": "Jordan",
+      "price": 8295,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/81uTb5UwUgL._UY550_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/81OACJ3TMlL._UY550_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ef44b818-c4fd-4fa5-934b-5c118af39d2b.jpg?v=1684235808&width=750",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_267e0f43-132b-403e-b9b9-03c37094dcb8.jpg?v=1684235808&width=750",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_054e1398-82d1-4ff5-9bf9-8daf417920a9.jpg?v=1684235808&width=750",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a114f4c6-0bcc-4668-ad56-faa2360373a2.jpg?v=1684235808&width=750"
         }
       ],
-      "category": "Men's Clothing",
+      "category": "Men's Sneakers",
       "stock": 15,
       "numOfReviews": 0,
       "reviews": []
     },
     {
-      "_id": "644e4a49116a3b496294e203",
-      "name": "Dennis Lingo Denim Shirt",
-      "description": "Dennis Lingo Men's Denim Solid Casual Shirt",
-      "price": 749,
+      "_id": "644e4a49116a3b496294e211",
+      "name": "CHUCK 70 CRAFT MIX",
+      "description": "CHUCK 70 CRAFT MIX 'NATURAL/SUMMIT SAGE'",
+      "brand": "Converse",
+      "price": 5999,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/71SajCEdvTL._UY741_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/71tUd+9zOrL._UY550_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_92b4cf9a-3250-47e7-bc19-1bdf6bdcba62.jpg?v=1684224428&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f8c8a897-8160-4d21-bf5d-2c38ff2de039.jpg?v=1684224428&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_21934cc3-ce0b-4d98-9221-3ab3a55e7098.jpg?v=1684224428&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_659669b5-8b23-4372-b8bb-07d0444b3b2e.jpg?v=1684224169&width=493"
         }
       ],
-      "category": "Men's Clothing",
-      "stock": 30,
-      "numOfReviews": 0,
-      "reviews": []
-    },
-    {
-      "_id": "644e4a49116a3b496294e204",
-      "name": "Inkast Denim Co. Shirt",
-      "description": "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
-      "price": 799,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/71ssF1s7V1L._UY550_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/81ohJVWRobL._UY550_.jpg"
-        }
-      ],
-      "category": "Men's Clothing",
-      "stock": 30,
-      "numOfReviews": 0,
-      "reviews": []
-    },
-    {
-      "_id": "644e4a49116a3b496294e204",
-      "name": "Urbano Fashion Jeans",
-      "description": "Urbano Fashion Men's Light Grey Slim Fit Jogger Jeans Stretch",
-      "price": 727,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/71J5v1vrKaL._UX466_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/81YfzEbgnkL._UX466_.jpg"
-        }
-      ],
-      "category": "Men's Clothing",
-      "stock": 30,
-      "numOfReviews": 0,
-      "reviews": []
-    },
-    {
-      "_id": "644e4a49116a3b496294e204",
-      "name": "Levi's Jeans",
-      "description": "Levi's Men's Slim Jeans",
-      "price": 1727,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/61go-GPfLXL._UX569_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/61vKg-JRVFL._UX569_.jpg"
-        }
-      ],
-      "category": "Men's Clothing",
-      "stock": 30,
-      "numOfReviews": 0,
-      "reviews": []
-    }
-  ],
-  "mobile_phones": [
-    {
-      "_id": "644e4a49116a3b496294e199",
-      "name": "Redmi Note 12",
-      "description": "Redmi Note 12 5G Matte Black 6GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
-      "price": 19999,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/81ZZPvIWnYL._SX679_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/51XmUa63yML._SX679_.jpg"
-        }
-      ],
-      "category": "Mobile Phone",
-      "stock": 3,
-      "numOfReviews": 0,
-      "reviews": []
-    },
-    {
-      "_id": "644e4a49116a3b496294e200",
-      "name": "Apple iPhone 13 Pro",
-      "description": "Apple iPhone 13 Pro (1TB) - Silver",
-      "price": 144999,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/617FFRO3vcL._SX679_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/61fw6aB0irL._SX679_.jpg"
-        }
-      ],
-      "category": "Mobile Phone",
-      "stock": 10,
-      "numOfReviews": 0,
-      "reviews": []
-    },
-    {
-      "_id": "644e4a49116a3b496294e201",
-      "name": "Samsung Galaxy S23 Ultra",
-      "description": "Samsung Galaxy S23 Ultra 5G (Cream, 12GB, 256GB Storage)",
-      "price": 124999,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/61j99uUfXNL._SX679_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/61DRYp5qoeL._SX679_.jpg"
-        }
-      ],
-      "category": "Mobile Phone",
-      "stock": 12,
-      "numOfReviews": 0,
-      "reviews": []
-    },
-    {
-      "_id": "644e4a49116a3b496294e201",
-      "name": "OnePlus 10R",
-      "description": "OnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)",
-      "price": 34999,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/41pQ4gJMwEL._SX300_SY300_QL70_FMwebp_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/710ldHgfKLL._SX679_.jpg"
-        }
-      ],
-      "category": "Mobile Phone",
-      "stock": 12,
-      "numOfReviews": 0,
-      "reviews": []
-    },
-    {
-      "_id": "644e4a49116a3b496294e201",
-      "name": "iQOO 11",
-      "description": "iQOO 11 5G (Legend, 8GB RAM, 256 GB Storage) | Snapdragon ® 8 Gen 2 Mobile Platform | 2K E6 AMOLED Display | V2 Intelligent Display Chip",
-      "price": 54990,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/71ZeuCAbcSL._SX679_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/61abiAT+ECL._SX679_.jpg"
-        }
-      ],
-      "category": "Mobile Phone",
-      "stock": 12,
-      "numOfReviews": 0,
-      "reviews": []
-    }
-  ],
-  "men_clothing": [
-    {
-      "_id": "644e4a49116a3b496294e202",
-      "name": "Miraan Denim Shirt",
-      "description": "Miraan Men's Long Sleeve Casual Denim Shirt",
-      "price": 745,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/81uTb5UwUgL._UY550_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/81OACJ3TMlL._UY550_.jpg"
-        }
-      ],
-      "category": "Men's Clothing",
+      "category": "Men's Sneakers",
       "stock": 15,
       "numOfReviews": 0,
       "reviews": []
     },
     {
-      "_id": "644e4a49116a3b496294e203",
-      "name": "Dennis Lingo Denim Shirt",
-      "description": "Dennis Lingo Men's Denim Solid Casual Shirt",
-      "price": 749,
+      "_id": "644e4a49116a3b496294e212",
+      "name": "AIR JORDAN 1 MID SE",
+      "description": "AIR JORDAN 1 MID SE 'MAGIC EMBER/SUNDIAL-WHITE-BLACK'",
+      "brand": "Jordan",
+      "price": 12295,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/71SajCEdvTL._UY741_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/71tUd+9zOrL._UY550_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_b5a6c606-7106-4060-9d87-aa3d529aac47.jpg?v=1684141621&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_4111abe5-c246-4090-a136-e04585981d25.jpg?v=1684141622&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_63711ca6-6ecf-4b21-8aad-b0e577f69b69.jpg?v=1684141621&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ab1ff12b-687c-4f05-981b-dc8be5ef5f78.jpg?v=1684141621&width=493"
         }
       ],
-      "category": "Men's Clothing",
-      "stock": 30,
+      "category": "Men's Sneakers",
+      "stock": 15,
       "numOfReviews": 0,
       "reviews": []
     },
     {
-      "_id": "644e4a49116a3b496294e204",
-      "name": "Inkast Denim Co. Shirt",
-      "description": "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
-      "price": 799,
+      "_id": "644e4a49116a3b496294e213",
+      "name": "SK8-HI 'TRUE WHITE/PARISIAN NIGHT'",
+      "description": "SK8-HI 'TRUE WHITE/PARISIAN NIGHT'",
+      "brand": "Vans",
+      "price": 5299,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/71ssF1s7V1L._UY550_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/81ohJVWRobL._UY550_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/13_e74396b8-81a6-4c8b-b5c2-92c553d9dd18.jpg?v=1683742780&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/ECOMS-2023_04661514-bd36-4973-a980-41b33109aab2.jpg?v=1683742780&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_7d7a4a6a-c586-480e-b602-c88a38ba89c7.jpg?v=1683742780&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_742df717-addc-48ea-8d6b-e3400a89a0b2.jpg?v=1683742780&width=493"
         }
       ],
-      "category": "Men's Clothing",
-      "stock": 30,
+      "category": "Men's Sneakers",
+      "stock": 15,
       "numOfReviews": 0,
       "reviews": []
     },
     {
-      "_id": "644e4a49116a3b496294e204",
-      "name": "Urbano Fashion Jeans",
-      "description": "Urbano Fashion Men's Light Grey Slim Fit Jogger Jeans Stretch",
-      "price": 727,
+      "_id": "644e4a49116a3b496294e214",
+      "name": "SK8 LOW 'GREEN/WHITE'",
+      "description": "SK8 LOW 'GREEN/WHITE'",
+      "brand": "Vans",
+      "price": 5299,
       "rating": 0,
       "images": [
         {
-          "image1": "https://m.media-amazon.com/images/I/71J5v1vrKaL._UX466_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/81YfzEbgnkL._UX466_.jpg"
+          "image1": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_590d5e50-9b7a-4e9a-9adb-c7fc445f839c.jpg?v=1683742574&width=493",
+          "image2": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c81727b0-4112-424f-ad4e-c3ec9fc941f3.jpg?v=1683742574&width=493",
+          "image3": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_d31af339-6ad8-44af-9901-0c062fea3e32.jpg?v=1683742574&width=493",
+          "image4": "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a3626672-b8e6-4c39-b31f-5fa4dd5ce201.jpg?v=1683742574&width=493"
         }
       ],
-      "category": "Men's Clothing",
-      "stock": 30,
-      "numOfReviews": 0,
-      "reviews": []
-    },
-    {
-      "_id": "644e4a49116a3b496294e204",
-      "name": "Levi's Jeans",
-      "description": "Levi's Men's Slim Jeans",
-      "price": 1727,
-      "rating": 0,
-      "images": [
-        {
-          "image1": "https://m.media-amazon.com/images/I/61go-GPfLXL._UX569_.jpg",
-          "image2": "https://m.media-amazon.com/images/I/61vKg-JRVFL._UX569_.jpg"
-        }
-      ],
-      "category": "Men's Clothing",
-      "stock": 30,
+      "category": "Men's Sneakers",
+      "stock": 15,
       "numOfReviews": 0,
       "reviews": []
     }
